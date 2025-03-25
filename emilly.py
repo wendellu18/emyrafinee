@@ -9,7 +9,8 @@ print (comida)
 hobbie = input ("Digite seu hobbie favorito:")
 print (hobbie)
 
-print(f"{nome}, era uma pessoa muito legal, que tem {idade} anos e ele(a) mora em {cidade}. Um dia sua mãe fez sua comida preferida, que era {comida}, mas ele tinha um compromisso muito importante. No caminho, ele fez o que ele mais gosta, que é {hobbie}, cumpriu seu compromisso e voltou para casa e comeu {comida}.")
+print(f'''{nome}, era uma pessoa muito legal, que tem {idade} anos e ele(a) mora em {cidade}. Um dia ele estava com fome e decidiu pedir sua comida preferida, que era {comida},
+após ele comer ele(a) decidiu ir fazer seu hobby preferido {hobbie}.''')
 
 
 
